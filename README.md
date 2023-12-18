@@ -20,6 +20,19 @@ A repository to log my daily work at Jajal Medical.
     <td>Completed #42 videos</td>
     <td>Friday, 15 Dec 2023</td>
   </tr>
+  <tr>
+    <td></td>
+    <td>Brush up C++ (CodeWithHarry Playlist on C++)</td>
+    <td>Done</td>
+    <td>Mon, 18 Dec 2023</td>
+  </tr>
+    
+  <tr>
+    <td>2.</td>
+    <td>C++ Assignment</td>
+    <td>In Progress</td>
+    <td>Mon, 18 Dec 2023</td>
+  </tr>
 </table>
 
 </body>
