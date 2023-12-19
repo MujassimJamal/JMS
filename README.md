@@ -36,7 +36,7 @@ A repository to log my daily work at Jajal Medical.
   <tr>
     <td></td>
     <td>C++ Assignment</td>
-    <td>In Progress</td>
+    <td>Finished 16 questions</td>
     <td>Tue, 19 Dec 2023</td>
   </tr>
 </table>
