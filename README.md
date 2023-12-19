@@ -23,7 +23,7 @@ A repository to log my daily work at Jajal Medical.
   <tr>
     <td></td>
     <td>Brush up C++ (CodeWithHarry Playlist on C++)</td>
-    <td>Done</td>
+    <td>Completed Rest of the videos</td>
     <td>Mon, 18 Dec 2023</td>
   </tr>
     
