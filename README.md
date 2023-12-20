@@ -43,8 +43,14 @@ A repository to log my daily work at Jajal Medical.
   <tr>
     <td>3.</td>
     <td>Brush up Python (CodeWithHarry Playlist on Python)</td>
-    <td>In Progress</td>
+    <td>Completed 15 videos out of 100</td>
     <td>Tue, 19 Dec 2023</td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Brush up Python (CodeWithHarry Playlist on Python)</td>
+    <td>In Progress</td>
+    <td>Wed, 20 Dec 2023</td>
   </tr>
 </table>
 
