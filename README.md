@@ -43,7 +43,7 @@
   <tr>
     <td>3.</td>
     <td>Brush up Python (CodeWithHarry Playlist on Python)</td>
-    <td>In Progress</td>
+    <td>Completed 90 videos</td>
     <td>Wed, 20 Dec 2023</td>
   </tr>
 </table>
