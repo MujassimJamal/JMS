@@ -1,12 +1,6 @@
-# Jajal Medical
-A repository to log my daily work at Jajal Medical.
+# JMS - Internship.
 
 <body>
-  <p>
-    Name: Mujassim Bhaijamal<br>
-    Role: Software Development Intern
-  </p>
-
   <table>
   <tr>
     <th>#</th>
