@@ -1,4 +1,4 @@
-# JMS - Internship
+# JMS
 
 <body>
   <table>
