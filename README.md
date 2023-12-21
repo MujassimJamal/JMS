@@ -41,10 +41,17 @@
     <td>Tue, 19 Dec 2023</td>
   </tr>
   <tr>
-    <td>3.</td>
+    <td></td>
     <td>Brush up Python (CodeWithHarry Playlist on Python)</td>
-    <td>Completed 90 videos</td>
+    <td>Completed rest of the videos</td>
     <td>Wed, 20 Dec 2023</td>
+  </tr>
+
+  <tr>
+    <td>4.</td>
+    <td>Watch OOP in Python Video</td>
+    <td>In Progress</td>
+    <td>Thu, 21 Dec 2023</td>
   </tr>
 </table>
 
