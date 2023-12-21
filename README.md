@@ -50,7 +50,7 @@
   <tr>
     <td>4.</td>
     <td>Watch OOP in Python Video</td>
-    <td>In Progress</td>
+    <td>Done</td>
     <td>Thu, 21 Dec 2023</td>
   </tr>
 </table>
