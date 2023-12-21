@@ -1,4 +1,4 @@
-I executed the programs by running the following commands in the terminal:
+I executed the programs by running the following commands in terminal:
 
 <code>g++ -o file_name.exe file_name.cpp
 ./file_name.exe
