@@ -16,7 +16,8 @@
   </tr>
   <tr>
     <td></td>
-    <td>Brush up C++ (CodeWithHarry Playlist on C++)</td>
+    <td></td>
+<!--     <td>Brush up C++ (CodeWithHarry Playlist on C++)</td> -->
     <td>Completed rest of the videos</td>
     <td>Mon, 18 Dec 2023</td>
   </tr>
@@ -29,7 +30,8 @@
   </tr>
   <tr>
     <td></td>
-    <td>C++ Assignment</td>
+    <td></td>
+<!--     <td>C++ Assignment</td> -->
     <td>Finished 16 questions</td>
     <td>Tue, 19 Dec 2023</td>
   </tr>
@@ -42,7 +44,8 @@
   </tr>
   <tr>
     <td></td>
-    <td>Brush up Python (CodeWithHarry Playlist on Python)</td>
+    <td></td>
+<!--     <td>Brush up Python (CodeWithHarry Playlist on Python)</td> -->
     <td>Completed rest of the videos</td>
     <td>Wed, 20 Dec 2023</td>
   </tr>
@@ -62,7 +65,8 @@
   </tr>
   <tr>
     <td></td>
-    <td>Watch Qt core for Intermediate course</td>
+    <td></td>
+<!--     <td>Watch Qt core for Intermediate course</td> -->
     <td>In Progress</td>
     <td>Fri, 22 Dec 2023</td>
   </tr>
