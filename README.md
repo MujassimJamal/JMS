@@ -57,8 +57,14 @@
   <tr>
     <td>5.</td>
     <td>Watch Qt core for Intermediate course</td>
-    <td>Qt Installation - In Progress</td>
+    <td>Qt Installation - Done</td>
     <td>Thu, 21 Dec 2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Watch Qt core for Intermediate course</td>
+    <td>In Progress</td>
+    <td>Fri, 22 Dec 2023</td>
   </tr>
 </table>
 
