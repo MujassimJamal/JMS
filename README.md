@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td>Brush up C++ (CodeWithHarry Playlist on C++)</td>
+    <td>Brush up C++ (CWH Playlist)</td>
     <td>Completed 42 videos out of 74</td>
     <td>Friday, 15 Dec 2023</td>
   </tr>
@@ -38,7 +38,7 @@
 
   <tr>
     <td>3.</td>
-    <td>Brush up Python (CodeWithHarry Playlist on Python)</td>
+    <td>Brush up Python (CWH Playlist)</td>
     <td>Completed 15 videos out of 100</td>
     <td>Tue, 19 Dec 2023</td>
   </tr>
