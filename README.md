@@ -67,7 +67,7 @@
     <td></td>
     <td></td>
 <!--     <td>Watch Qt core for Intermediate course</td> -->
-    <td>In Progress</td>
+    <td>Completed three sections</td>
     <td>Fri, 22 Dec 2023</td>
   </tr>
 </table>
