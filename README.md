@@ -17,7 +17,6 @@
   <tr>
     <td></td>
     <td></td>
-<!--     <td>Brush up C++ (CodeWithHarry Playlist on C++)</td> -->
     <td>Completed rest of the videos</td>
     <td>Mon, 18 Dec 2023</td>
   </tr>
@@ -31,7 +30,6 @@
   <tr>
     <td></td>
     <td></td>
-<!--     <td>C++ Assignment</td> -->
     <td>Finished 16 questions</td>
     <td>Tue, 19 Dec 2023</td>
   </tr>
@@ -45,7 +43,6 @@
   <tr>
     <td></td>
     <td></td>
-<!--     <td>Brush up Python (CodeWithHarry Playlist on Python)</td> -->
     <td>Completed rest of the videos</td>
     <td>Wed, 20 Dec 2023</td>
   </tr>
@@ -66,25 +63,29 @@
   <tr>
     <td></td>
     <td></td>
-<!--     <td>Watch Qt core for Intermediate course</td> -->
     <td>Completed three sections</td>
     <td>Fri, 22 Dec 2023</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-<!--     <td>Watch Qt core for Intermediate course</td> -->
     <td>Completed upto `QMetaObject - Exploring objects` of sec 12 </td>
     <td>Tue, 26 Dec 2023</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-<!--     <td>Watch Qt core for Intermediate course</td> -->
-    <td>In Progress - Sec 13 / Course Completed</td>
+    <td>Course Completed</td>
     <td>Wed, 27 Dec 2023</td>
   </tr>
   <tr>
+
+  <tr>
+    <td>6.</td>
+    <td>Python Assignment</td>
+    <td>In Progress</td>
+    <td>Wed, 27 Dec 2023</td>
+  </tr>
 </table>
 
 </body>
