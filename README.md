@@ -74,7 +74,7 @@
     <td></td>
     <td></td>
 <!--     <td>Watch Qt core for Intermediate course</td> -->
-    <td>Completed upto QMetaObject - Exploring objects of sec 12 </td>
+    <td>Completed upto `QMetaObject - Exploring objects` of sec 12 </td>
     <td>Tue, 26 Dec 2023</td>
   </tr>
   <tr>
