@@ -30,11 +30,9 @@ def decode(enMsg):
 
 
 msg = input("Enter you message: ")
-choice = input("Type decode or encode: ")
 
-if (choice == "encode"):
-    print(encode(msg))
-elif (choice == "decode"):
-    print(decode(msg))
-else:
-    print("Invalid Choice.")
+encodeMsg = encode(msg)
+print("Encoding: " + encodeMsg)
+
+decodeMsg = decode(msg)
+print("Decoding: " + decodeMsg)
