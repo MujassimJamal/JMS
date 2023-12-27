@@ -74,8 +74,15 @@
     <td></td>
     <td></td>
 <!--     <td>Watch Qt core for Intermediate course</td> -->
-    <td>In Progress - Sec-8</td>
+    <td>Completed upto QMetaObject - Exploring objects of sec 12 </td>
     <td>Tue, 26 Dec 2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+<!--     <td>Watch Qt core for Intermediate course</td> -->
+    <td>In Progress - Sec 13</td>
+    <td>Wed, 27 Dec 2023</td>
   </tr>
 </table>
 
