@@ -83,7 +83,7 @@
   <tr>
     <td>6.</td>
     <td>Python Assignment</td>
-    <td>Completed 16 questions</td>
+    <td>Completed</td>
     <td>Wed, 27 Dec 2023</td>
   </tr>
 </table>
