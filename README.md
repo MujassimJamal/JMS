@@ -90,7 +90,7 @@
   <tr>
     <td>7.</td>
     <td>Watch Qt for advance course</td>
-    <td>In Progress</td>
+    <td>Completed two sections of this course and three remaining assignments of previous course.</td>
     <td>Thu, 28 Dec 2023</td>
   </tr>
 </table>
