@@ -86,6 +86,13 @@
     <td>Completed</td>
     <td>Wed, 27 Dec 2023</td>
   </tr>
+
+  <tr>
+    <td>7.</td>
+    <td>Watch Qt for advance course</td>
+    <td>In Progress</td>
+    <td>Thu, 28 Dec 2023</td>
+  </tr>
 </table>
 
 </body>
