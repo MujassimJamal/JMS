@@ -96,7 +96,7 @@
   <tr>
     <td></td>
     <td></td>
-    <td>In Progress</td>
+    <td>Completed 30%</td>
     <td>Fri, 29 Dec 2023</td>
   </tr>
 </table>
