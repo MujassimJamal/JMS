@@ -93,6 +93,12 @@
     <td>Completed two sections of this course and three remaining assignments of previous course.</td>
     <td>Thu, 28 Dec 2023</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>In Progress</td>
+    <td>Fri, 29 Dec 2023</td>
+  </tr>
 </table>
 
 </body>
