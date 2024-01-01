@@ -4,8 +4,8 @@
   <table>
   <tr>
     <th>Day</th>
-    <th>Task Assigned</th>
-    <th>Work Done</th>
+    <th>T/A</th>
+    <th>W/D</th>
     <th>Date</th>
   </tr>
   <tr>
