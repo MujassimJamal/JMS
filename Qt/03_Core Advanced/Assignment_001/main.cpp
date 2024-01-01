@@ -22,6 +22,8 @@ int main(int argc, char *argv[])
 
     QString path = QDir::currentPath();
 
+    //the below concurrent's run method runs the count method on a separate thread taken from thread pool. 
+    //and since only a single thread is going to run the count method, it will be executed sequentially hence printing out the number of files at the last.
     QFuture<void> f = QtConcurrent::run(&count, path);
     f.waitForFinished();
     qInfo() << "Done";
