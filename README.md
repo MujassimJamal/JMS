@@ -101,8 +101,8 @@
   </tr>
   <tr>
     <td>15.</td>
-    <td>Qt Assignment</td>
-    <td>Completed qt advance upto 35% and qt assignment In Progress</td>
+    <td>Qt GUI Assignment</td>
+    <td>Completed qt advance upto 35% and two GUI assignments</td>
     <td>Fri, 29 Dec 2023</td>
   </tr>
 </table>
