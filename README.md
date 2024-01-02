@@ -99,6 +99,12 @@
     <td>Completed 30%</td>
     <td>Fri, 29 Dec 2023</td>
   </tr>
+  <tr>
+    <td>15.</td>
+    <td>Qt Assignment</td>
+    <td>In Progress</td>
+    <td>Fri, 29 Dec 2023</td>
+  </tr>
 </table>
 
 </body>
