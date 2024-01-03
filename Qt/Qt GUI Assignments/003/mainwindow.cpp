@@ -24,16 +24,6 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-bool MainWindow::isValidInput()
-{
-    if (!this->ui->emailEdit->hasAcceptableInput()) {
-        this->ui->inputStatusEdit->setText("Invalid input specified!");
-        return false;
-    }
-
-    return true;
-}
-
 bool MainWindow::isDataSaved(QString content)
 {
     //a separate thread for file write operation
@@ -57,7 +47,7 @@ bool MainWindow::isDataSaved(QString content)
 
 void MainWindow::on_submitBtn_clicked()
 {
-    if (isValidInput()) {
+    if (this->ui->emailEdit->hasAcceptableInput()) {
         QString data;
 
         data = "Name: " + this->ui->nameEdit->text() + "\n";
@@ -72,12 +62,17 @@ void MainWindow::on_submitBtn_clicked()
         data = data + "Description: " + this->ui->descEdit->toPlainText();
 
         QFuture<bool> f = QtConcurrent::run(this, &isDataSaved, data);
+
+        f.waitForFinished();
         if (!f.isFinished() | !f.result()) {
             this->ui->inputStatusEdit->setText("Can not save data!");
+        } else {
+            this->ui->inputStatusEdit->setText("Data saved in data.txt");
+            showInfoMessageBox(data);
         }
 
-        this->ui->inputStatusEdit->setText("Data saved in data.txt");
-        showInfoMessageBox(data);
+    } else {
+        this->ui->inputStatusEdit->setText("Invalid input specified!");
     }
 }
 
@@ -85,15 +80,6 @@ void MainWindow::showInfoMessageBox(QString &message)
 {
     QMessageBox* msgBox = new QMessageBox();
     msgBox->setIcon(QMessageBox::Information);
-
-    msgBox->setText(message);
-    msgBox->exec();
-}
-
-void MainWindow::showCriticalMessageBox(QString &message)
-{
-    QMessageBox* msgBox = new QMessageBox();
-    msgBox->setIcon(QMessageBox::Critical);
 
     msgBox->setText(message);
     msgBox->exec();

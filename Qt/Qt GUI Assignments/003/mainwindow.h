@@ -34,11 +34,9 @@ private slots:
     void on_emailEdit_textChanged(const QString &arg1);
 
 private:
-    bool isValidInput();
     bool isDataSaved(QString content);
 
     void showInfoMessageBox(QString &message);
-    void showCriticalMessageBox(QString &message);
 
     Ui::MainWindow *ui;
 };
