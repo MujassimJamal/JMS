@@ -108,7 +108,7 @@
   <tr>
     <td>16.</td>
     <td></td>
-    <td>Completed qt advance upto 50% and GUI third assignment in progress</td>
+    <td>Completed qt advance upto 50%, GUI third assignment and Jira V1.</td>
     <td>Wed, 3 Jan 2024</td>
   </tr>
 </table>
