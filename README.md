@@ -103,7 +103,13 @@
     <td>15.</td>
     <td>Qt GUI Assignment</td>
     <td>Completed qt advance upto 35% and two GUI assignments</td>
-    <td>Fri, 29 Dec 2023</td>
+    <td>Tue, 2 Jan 2024</td>
+  </tr>
+  <tr>
+    <td>16.</td>
+    <td></td>
+    <td>Completed qt advance upto 50% and GUI third assignment in progress</td>
+    <td>Wed, 3 Jan 2024</td>
   </tr>
 </table>
 
