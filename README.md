@@ -102,14 +102,20 @@
   <tr>
     <td>15.</td>
     <td>Qt GUI Assignment</td>
-    <td>Completed qt advance upto 35% and two GUI assignments</td>
+    <td>Completed two GUI assignments and qt advance upto 35%</td>
     <td>Tue, 2 Jan 2024</td>
   </tr>
   <tr>
     <td>16.</td>
     <td></td>
-    <td>Completed qt advance upto 50%, GUI third assignment and Jira V1.</td>
+    <td>Completed GUI third assignment, qt advance upto 50%, and Jira V1.</td>
     <td>Wed, 3 Jan 2024</td>
+  </tr>
+   <tr>
+    <td>17.</td>
+    <td>Watch remaining videos on github, jira and qt advance</td>
+    <td>In Progress</td>
+    <td>Thu, 4 Jan 2024</td>
   </tr>
 </table>
 
