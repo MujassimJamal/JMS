@@ -114,7 +114,7 @@
    <tr>
     <td>17.</td>
     <td>Watch remaining videos on github, jira and qt advance</td>
-    <td>In Progress</td>
+    <td>Completed Jira and github V1.</td>
     <td>Thu, 4 Jan 2024</td>
   </tr>
 </table>
