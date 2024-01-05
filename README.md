@@ -117,6 +117,12 @@
     <td>Completed Jira and github V1.</td>
     <td>Thu, 4 Jan 2024</td>
   </tr>
+  <tr>
+    <td>18.</td>
+    <td></td>
+    <td>In Progress</td>
+    <td>Fri, 5 Jan 2024</td>
+  </tr>
 </table>
 
 </body>
