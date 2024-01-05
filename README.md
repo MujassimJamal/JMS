@@ -120,7 +120,7 @@
   <tr>
     <td>18.</td>
     <td></td>
-    <td>In Progress</td>
+    <td>Completed Github and qt advance in progress/td>
     <td>Fri, 5 Jan 2024</td>
   </tr>
 </table>
