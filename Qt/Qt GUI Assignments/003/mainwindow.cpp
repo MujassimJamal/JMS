@@ -30,7 +30,6 @@ bool MainWindow::isDataSaved(QString content)
     qDebug() << "== File Worker Thread: " << QThread::currentThread();
 
     QFile* file = new QFile(QDir::currentPath() + "/" + "data.txt");
-    file->deleteLater();
 
     if (!file->open(QFile::WriteOnly)) {
         qDebug() << "Can not open file!";
@@ -41,6 +40,7 @@ bool MainWindow::isDataSaved(QString content)
     *qin << content.toLatin1();
 
     file->close();
+    file->deleteLater();
 
     return true;
 }
