@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    QString url = "https://postman-echo.com/get";
+    QString url = "http://postman-echo.com/get";
 
     QNetworkAccessManager* manager = new QNetworkAccessManager(&a);
     QEventLoop* loop = new QEventLoop(&a);
