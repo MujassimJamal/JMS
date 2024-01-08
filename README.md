@@ -123,6 +123,12 @@
     <td>Completed Github and qt advance upto 60% (Qt Done - Weekend)</td>
     <td>Fri, 5 Jan 2024</td>
   </tr>
+   <tr>
+    <td>19.</td>
+    <td>Read Slicer Docs</td>
+    <td>In Progress</td>
+    <td>Mon, 8 Jan 2024</td>
+  </tr>
 </table>
 
 </body>
