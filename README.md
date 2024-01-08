@@ -126,7 +126,7 @@
    <tr>
     <td>19.</td>
     <td>Read Slicer Docs</td>
-    <td>Completed three remaining qt advance assigns & Slicer in progress</td>
+    <td>Completed three remaining qt advance assigns & Read Slicer's UI, Data Loading & Saving, Img Segmentation, DICOM Module Intro sections.</td>
     <td>Mon, 8 Jan 2024</td>
   </tr>
 </table>
