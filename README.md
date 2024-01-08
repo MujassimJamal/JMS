@@ -126,7 +126,7 @@
    <tr>
     <td>19.</td>
     <td>Read Slicer Docs</td>
-    <td>In Progress</td>
+    <td>Completed three remaining qt advance assigns & Slicer in progress</td>
     <td>Mon, 8 Jan 2024</td>
   </tr>
 </table>
