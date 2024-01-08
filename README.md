@@ -120,7 +120,7 @@
   <tr>
     <td>18.</td>
     <td></td>
-    <td>Completed Github and qt advance upto 60%</td>
+    <td>Completed Github and qt advance upto 60% (Qt Done - Weekend)</td>
     <td>Fri, 5 Jan 2024</td>
   </tr>
 </table>
