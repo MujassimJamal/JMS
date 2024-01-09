@@ -132,7 +132,7 @@
    <tr>
     <td>20.</td>
     <td></td>
-    <td>In Progress</td>
+    <td>Completed SDLC, HIPAA & Explored Qt Widget classes.</td>
     <td>Tue, 9 Jan 2024</td>
   </tr>
 </table>
